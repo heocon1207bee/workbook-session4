@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/workbook-session4/static/css/main.bc424115.css",
+    "main.js": "/workbook-session4/static/js/main.fb085b20.js",
+    "index.html": "/workbook-session4/index.html",
+    "main.bc424115.css.map": "/workbook-session4/static/css/main.bc424115.css.map",
+    "main.fb085b20.js.map": "/workbook-session4/static/js/main.fb085b20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc424115.css",
+    "static/js/main.fb085b20.js"
+  ]
+}
