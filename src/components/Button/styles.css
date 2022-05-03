@@ -1,0 +1,26 @@
+.changeBtn {
+    padding: 1em;
+    border: none;
+    color: white;
+    border-radius: 7px;
+    background-color: rgb(64, 150, 207);
+    transition: all 0.2s ease;
+}
+
+.changeBtn:hover {
+    background-color: rgb(31, 105, 167);
+}
+
+.backBtn {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.backBtn .changeBtn {
+    background-color: rgb(214, 64, 77)
+}
+
+.backBtn .changeBtn:hover {
+    background-color: rgb(162, 31, 42)
+}

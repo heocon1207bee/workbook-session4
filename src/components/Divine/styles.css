@@ -1,0 +1,12 @@
+.divComponents {
+    height: 400px;
+    width: 400px;
+}
+
+.square {
+    border-radius: 0px;
+}
+
+.circle {
+    border-radius: 50%;
+}
